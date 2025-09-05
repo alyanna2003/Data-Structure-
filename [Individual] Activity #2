@@ -1,0 +1,20 @@
+// Vivo, Alyanna Mae R.
+// BSIT-2J
+// ACTIVITY 2
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    // Input values
+    string fullName = "Alyanna Mae R. Vivo";
+    string courseYearSec = "BSIT-2J";
+    string birthday = "April 23, 2003";
+    string motto = "Believe in yourself and all that you are.";
+
+    // Output
+    cout << "Hi! I'm " << fullName << " of " << courseYearSec << ". Welcome to Data Structures and Algorithm!" << endl;
+    cout << "My Birthday is on " << birthday << ". and my motto/motivation in life is \"" << motto << "\"" << endl;
+
+    return 0;
+}
