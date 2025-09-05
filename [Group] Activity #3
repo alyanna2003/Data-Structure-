@@ -1,0 +1,20 @@
+// Vivo, Alyanna Mae R.
+// BSIT-2J
+// ACTIVITY 3
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    // Input values
+    int hours = 5;
+    int minutes = 45;
+
+    int totalMinutes = (hours * 60) + minutes;
+
+    cout << "Input hours: " << hours << endl;
+    cout << "Input minutes: " << minutes << endl;
+    cout << "Total: " << totalMinutes << " minutes" << endl;
+
+    return 0;
+}
