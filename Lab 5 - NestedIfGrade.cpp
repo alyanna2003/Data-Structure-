@@ -1,4 +1,7 @@
-//
+//Vivo, Alyanna Mae R.
+// BSIT-2J
+// LAB EXERCISES 
+
 #include <iostream>
 using namespace std;
 
